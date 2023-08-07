@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 7
+date: 2014-07-18
+img: sort.png
+alt: sorting visualizer
+project-date: Jan 2023
+client: NUCES
+category: Web Development + Algorithms
+description: Web application for visualizing 9 different sorting algorithms.
+
+
+---
